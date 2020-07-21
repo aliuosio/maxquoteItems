@@ -3,7 +3,6 @@
 	<module name="AliuOsio_MaxQuoteItems" setup_version="0.1.0">
 		<sequence>
 			<module name="Magento_Checkout"/>
-			<module name="AliuOsio_Common"/>
 		</sequence>
 	</module>
 </config>
