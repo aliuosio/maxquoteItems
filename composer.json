@@ -1,5 +1,5 @@
 {
-    "name": "aliuosio/module-maxquoteitems",
+    "name": "aliuosio/maxquoteitems",
     "description": "Limits the items in the shopping cart to a specified number.",
     "type": "magento2-module",
     "license": "proprietary",
