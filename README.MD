@@ -6,6 +6,6 @@ Configure in Backend under `Stores -> Configuration -> AliuOsio -> Maximum Cart 
 
 
 ### Install
-    composer require aliuosio/vouchernocode;
+    composer require aliuosio/maxquoteitems;
     bin/magento se:up;
     bin/magento c:c;
