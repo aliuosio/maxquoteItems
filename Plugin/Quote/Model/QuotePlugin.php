@@ -2,7 +2,7 @@
 
 namespace AliuOsio\MaxQuoteItems\Plugin\Quote\Model;
 
-use AliuOsio\Common\Helper\Data as CommonHelper;
+use AliuOsio\MaxQuoteItems\Helper\Data as CommonHelper;
 use Magento\Framework\Exception\LocalizedException;
 use Magento\Quote\Model\Quote;
 
