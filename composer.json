@@ -1,0 +1,18 @@
+{
+    "name": "aliuosio/module-maxquoteitems",
+    "description": "Limits the items in the shopping cart to a specified number.",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "AliuOsio\\MaxQuoteItems\\": "/"
+        }
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "discard-changes": true
+    }
+}
